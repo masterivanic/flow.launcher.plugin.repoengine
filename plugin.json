@@ -1,0 +1,12 @@
+{
+    "ID":"c4f3bee2-0b8f-4211-8386-7d8def322e71",
+    "ActionKeyword":"repo",
+    "Name":"Repo search engine",
+    "Description":"Repo search engine help you browse accross public repo of github, hugginface, and more",
+    "Author":"masterivanic",
+    "Version":"0.1.0",
+    "Language":"python",
+    "Website":"https://github.com/masterivanic/flow.launcher.plugin.repoengine",
+    "IcoPath": "images/favicon.ico",
+    "ExecuteFileName":"main.py"
+  }

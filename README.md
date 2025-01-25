@@ -22,7 +22,10 @@ Repo Search Engine is a powerful Flow Launcher plugin designed to help you quick
    - Type `pm install RepoSearchEngine` and press Enter.
    - The plugin will be installed automatically.
 
-3. **Configure the Plugin**:
+3. **Run Tests locally**:
+   `pytest -vvv`
+
+4. **Configure the Plugin**:
    - After installation, you can configure the plugin by typing `RepoSearchEngine settings` in Flow Launcher.
    - Customize settings like default search filters, number of results, etc.
 
